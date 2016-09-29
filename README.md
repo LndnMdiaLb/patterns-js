@@ -6,6 +6,7 @@ The goal is to create/collate a useful resource for understanding common code ab
 
 Large parts of the code and information _are not original content_ and have been found across the web, copied and in many cases modified.  Reference to the original content is provided when still available at the time of writing this.
 
+[good resource](https://sourcemaking.com/design_patterns/chain_of_responsibility)
 
 ### Basic Patterns
 
